@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @shravansalvi
-- 👀 I’m interested in graphic design and animations
-- 🌱 I’m currently learning java, animations
-- 📫 How to reach me shravanrakeshsalvi@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: like to draw and design
+-# 👋 Hi, I’m Shravan Salvi!
 
-<!---
-shravansalvi/shravansalvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎨 Passionate about **graphic design** and **animations**  
+💻 Currently learning **Java** and **animation techniques**  
+🖌️ Love to **draw and design** in my free time  
+
+## 🚀 About Me  
+- 👀 Exploring the intersection of **art & technology**  
+- 🌱 Constantly improving my **coding and creative skills**  
+- 😄 Pronouns: **he/him**  
+- ⚡ Fun fact: I can turn a blank canvas into something exciting!  
+
+## 📫 Get in Touch  
+📩 **Email:** [shravanrakeshsalvi@gmail.com](mailto:shravanrakeshsalvi@gmail.com)  
+
+Let's connect and create something awesome! 🚀🎨  
+
